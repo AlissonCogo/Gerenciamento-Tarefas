@@ -37,7 +37,6 @@ public class Administrador extends Usuario {
             List<Tarefa> listaDeTarefas = new ArrayList<>();
             Scanner scanner = new Scanner(System.in);
 
-            // Criando usuários (em um sistema real, isso seria mais dinâmico)
             Administrador admin = new Administrador("Admin", "admin123");
             UsuarioComum usuarioComum = new UsuarioComum("Joao", "joao123");
 
