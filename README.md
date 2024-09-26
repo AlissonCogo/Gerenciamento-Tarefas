@@ -10,9 +10,9 @@ Este projeto foi desenvolvido como parte de um estudo sobre cibersegurança e pr
 
 1. Clone este repositório ou faça o download dos arquivos.
 
-bash
+```bash
 git clone https://github.com/seu-usuario/lista-de-tarefas.git
-
+```
 Navegue até a pasta do projeto.
 cd lista-de-tarefas
 
