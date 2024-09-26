@@ -13,23 +13,23 @@ Este projeto foi desenvolvido como parte de um estudo sobre cibersegurança e pr
 ```bash
 git clone https://github.com/seu-usuario/lista-de-tarefas.git
 ```
-Navegue até a pasta do projeto.
-cd lista-de-tarefas
+##Navegue até a pasta do projeto.
+```cd lista-de-tarefas```
 
-Compile os arquivos Java
-javac ListaDeTarefas.java
+##Compile os arquivos Java
+```javac ListaDeTarefas.java```
 
-Execute a classe principal ListaDeTarefas.
-java ListaDeTarefas
+##Execute a classe principal ListaDeTarefas.
+```java ListaDeTarefas```
 
-Ao iniciar o programa, você será solicitado a fazer login. Use um dos seguintes usuários para testar:
+##Ao iniciar o programa, você será solicitado a fazer login. Use um dos seguintes usuários para testar:
 
 Administrador:
-Nome de usuário: Admin
-Senha: admin123
+Nome de usuário: ```Admin```
+Senha: ```admin123```
 
 Usuario Comum:
-Nome de usuário: Paulo
-Senha: paulo
+Nome de usuário: ```Paulo```
+Senha: ```paulo```
 
 
