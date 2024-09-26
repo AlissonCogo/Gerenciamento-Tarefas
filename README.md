@@ -13,16 +13,16 @@ Este projeto foi desenvolvido como parte de um estudo sobre cibersegurança e pr
 ```bash
 git clone https://github.com/seu-usuario/lista-de-tarefas.git
 ```
-##Navegue até a pasta do projeto.
+## Navegue até a pasta do projeto.
 ```cd lista-de-tarefas```
 
-##Compile os arquivos Java
+## Compile os arquivos Java
 ```javac ListaDeTarefas.java```
 
-##Execute a classe principal ListaDeTarefas.
+## Execute a classe principal ListaDeTarefas.
 ```java ListaDeTarefas```
 
-##Ao iniciar o programa, você será solicitado a fazer login. Use um dos seguintes usuários para testar:
+## Ao iniciar o programa, você será solicitado a fazer login. Use um dos seguintes usuários para testar:
 
 Administrador:
 Nome de usuário: ```Admin```
